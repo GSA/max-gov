@@ -2,8 +2,6 @@
 
 Welcome! This repository is a collection point for all MAX.gov transition repositories.
 
-TEST
-
 ## MAX.gov Transition
 
 [MAX.gov](https://max.gov) is a program and technical platform consisting of four product suites with 18 applications and 18 hosted sites pertaining to analytics, authentication, collaboration, and data collection. Furthermore, the technical platform provides hosting and direct labor to agencies. The program offices partners with 168 government agencies and sub-agencies. In Spring 2020, it was determined the current OMB MAX.gov PMO and portions of the technical platform would be transitioned to GSA Technology Transformation Service (TTS) Solutions division.
