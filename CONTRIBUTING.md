@@ -4,7 +4,7 @@ We're so glad you're thinking about contributing to a U.S. Government open sourc
 
 We encourage you to read this project's CONTRIBUTING policy (you are here), its [LICENSE](LICENSE.md), and its [README](README.md).
 
-## How to contribute to Code.gov
+## How to contribute to MAX.gov
 
 - Report bugs and request features via [Github Issues](https://github.com/GSA/max-gov/issues).
 - [Share your ideas](mailto://max@gsa.gov) for how to improve MAX.gov. We're always open to suggestions.
