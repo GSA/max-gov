@@ -8,11 +8,13 @@ Welcome! This repository is a collection point for all MAX.gov transition reposi
 
 ### MAX.gov Transition Principles
 
-1. Self vs. managed service
-2. Product vs. project focused
-3. Adhere to Agile product development
-4. Open source by default
-5. Adhere to TTS/18F SW development and delivery practices
+An [overview](https://github.com/GSA/max-gov/wiki/MAX.gov-principles-in-detail) and more detail of each principle can be found in this repo's wiki.
+
+1. [Self vs. managed service](#)
+2. [Product vs. project focused](#)
+3. [Adhere to Agile methods](#)
+4. [Open source by default](#)
+5. [Adhere to TTS/18F SW development](#)
 
 ## Repositories
 
