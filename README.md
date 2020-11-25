@@ -16,13 +16,13 @@ Welcome! This repository is a collection point for all MAX.gov transition reposi
 
 ## Repositories
 
-All of our work is open source and we encourage you to take a look and contribute to our projects by submitting a pull request, a Github issue, or commenting on existing issues and pull requests. If you are unsure as to where an issue should live, please use the [GSA/max-gov](https://github.com/GSA/max-gov) repo as a catch all.
+All of our work is open source and we encourage you to take a look and contribute to our projects by submitting a pull request, a Github issue, or commenting on existing issues and pull requests. If you are unsure as to where an issue should live, please use the [GSA/max-gov](https://github.com/GSA/max-gov) repo.
 
 All of our repositories follow our [Code of Conduct](CODE_OF_CONDUCT.md) and [Contributing](CONTRIBUTING.md) guidelines.
 
 ### Code.gov repositories
 
-New MAX.gov consisting of multiple repositories containing code and information will be found here.
+New MAX.gov consists of multiple repositories containing code and information will be found here.
 
 ## Files you'll find in this repo
 
@@ -34,4 +34,3 @@ If you have questions, please feel free to contact us.
 
 - [Open an issue](https://github.com/GSA/code-gov/issues/new)
 - [Email](mailto:max@gsa.gov)
-- Slack - tbd
