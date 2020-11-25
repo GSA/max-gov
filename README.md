@@ -8,7 +8,7 @@ Welcome! This repository is a collection point for all MAX.gov transition reposi
 
 ### MAX.gov Transition Principles
 
-An [overview](https://github.com/GSA/max-gov/wiki/MAX.gov-principles-in-detail) and more detail of each principle can be found in this repo's wiki.
+Each principle is described in detail this repo's [wiki](https://github.com/GSA/max-gov/wiki).
 
 1. [Self vs. managed service](#)
 2. [Product vs. project focused](#)
