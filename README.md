@@ -8,11 +8,11 @@ Welcome! This repository is a collection point for all MAX.gov transition reposi
 
 ### MAX.gov Transition Principles
 
-1. [Self vs. managed service](#)
-2. [Product vs. project focused](#)
-3. [Adhere to Agile methods](#)
-4. [Open source by default](#)
-5. [Adhere to TTS/18F SW development](#)
+1. [Self vs. managed service](https://github.com/GSA/max-gov/wiki/Self-vs-managed-services)
+2. [Product vs. project focused](https://github.com/GSA/max-gov/wiki/Product-vs-project-focus)
+3. [Practice Agile methods](https://github.com/GSA/max-gov/wiki/Practice-Agile-methods)
+4. [Open source by default](https://github.com/GSA/max-gov/wiki/Open-source-by-default)
+5. [Utilize TTS development practices](https://github.com/GSA/max-gov/wiki/Utilize-TTS-development-practices)
 
 ## Repositories
 
@@ -33,4 +33,4 @@ These files offer information for federal agencies pertaining to the MAX.gov tra
 If you have questions, please feel free to contact us.
 
 - [Open an issue](https://github.com/GSA/code-gov/issues/new)
-- [Email](mailto:max@gsa.gov)
+- [Email](mailto:maxtransition@gsa.gov)
