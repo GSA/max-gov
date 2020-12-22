@@ -20,14 +20,6 @@ All of our work is open source and we encourage you to take a look and contribut
 
 All of our repositories follow our [Code of Conduct](CODE_OF_CONDUCT.md) and [Contributing](CONTRIBUTING.md) guidelines.
 
-### Code.gov repositories
-
-New MAX.gov consists of multiple repositories containing code and information will be found here.
-
-## Files you'll find in this repo
-
-These files offer information for federal agencies pertaining to the MAX.gov transition program and processes.
-
 ## Questions?
 
 If you have questions, please feel free to contact us.
